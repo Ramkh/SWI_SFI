@@ -1,0 +1,28 @@
+PN,REP,Treatments,Variety,Sowing Methods,Days of stay green,Plant Height (cm),# Filled Grains/Spike,Sterility %,Root Length (cm),Leaf area (cm^2),1000 Kernel Weight (gm),Final Spikes/m2,Grain Yield (kg/ha)
+1,1,WK-1204+SWI,WK-1204,SWI,157,82,91.6,0.8,15.4,25.305,52,118,2304.2
+2,1,WK-1204+Line Sowing,WK-1204,Line sowing,153,79.2,63.1,0.3,9.2,20.43,44,148,2812.7
+3,1,WK-1204+Broadcasting,WK-1204,Bradcasting,151,75.8,52.2,1.1,13.8,15.3,48,294,2874.0
+4,1,Dhaulagiri+SWI,Dhaulagiri,SWI,151,95.6,76.8,0.5,16.8,29.025,52,143,2786.2
+5,1,Dhaulagiri+Line Sowing,Dhaulagiri,Line sowing,141,98,46.2,1.7,11.2,28.485,50,195,3215.2
+6,1,Dhaulagiri+Broadcasting,Dhaulagiri,Bradcasting,141,95.8,42.9,0.9,15.2,24.255,50,295,3043.0
+7,1,Becard+SWI,Becard,SWI,156,81,94.7,2.7,13,26.01,56,110,2412.9
+8,1,Becard+Line Sowing,Becard,Line sowing,149,84,78.6,1,14.2,24.3,50,123,3011.4
+9,1,Becard+Broadcasting,Becard,Bradcasting,145,85,70.5,1.9,14,20.1825,48,143,1963.9
+10,2,WK-1204+SWI,WK-1204,SWI,162,71.8,82.6,1.2,14.4,30.915,40,105,1817.3
+11,2,WK-1204+Line Sowing,WK-1204,Line sowing,151,72.4,55.6,1.8,12.6,31.05,42,184,2470.9
+12,2,WK-1204+Broadcasting,WK-1204,Bradcasting,153,81,51.3,0.6,8.6,22.5675,46,173,2098.9
+13,2,Dhaulagiri+SWI,Dhaulagiri,SWI,149,98,75.9,0.1,10.8,31.44,52,133,2675.0
+14,2,Dhaulagiri+Line Sowing,Dhaulagiri,Line sowing,140,91.4,47.5,1.2,10.8,22.05,50,153,3038.4
+15,2,Dhaulagiri+Broadcasting,Dhaulagiri,Bradcasting,140,97.6,48,0.6,12.6,18.54,52,170,3141.6
+16,2,Becard+SWI,Becard,SWI,153,74.2,93.4,0,11.8,21.36,52,98,2525.9
+17,2,Becard+Line Sowing,Becard,Line sowing,147,77.4,71.1,0.8,10.8,23.625,52,118,3124.9
+18,2,Becard+Broadcasting,Becard,Bradcasting,149,86,77.2,1,12.2,24.975,44,145,2051.8
+19,3,WK-1204+SWI,WK-1204,SWI,159,77,101.2,0.8,14.4,27.225,47.8,90,2019.0
+20,3,WK-1204+Line Sowing,WK-1204,Line sowing,153,86.6,93.4,0,10.8,24.2775,48,161,3035.7
+21,3,WK-1204+Broadcasting,WK-1204,Bradcasting,153,82.4,54.3,0.5,10.2,15.675,46,220,2578.7
+22,3,Dhaulagiri+SWI,Dhaulagiri,SWI,151,87,70.1,1.4,15.4,25.83,42,123,2344.8
+23,3,Dhaulagiri+Line Sowing,Dhaulagiri,Line sowing,140,91.6,54.4,0.5,12,21.645,50,130,2985.8
+24,3,Dhaulagiri+Broadcasting,Dhaulagiri,Bradcasting,140,86.2,60.8,0.8,14.4,27.45,56,180,2819.0
+25,3,Becard+SWI,Becard,SWI,159,84.8,108.3,0.7,11.2,29.3625,46,113,2407.0
+26,3,Becard+Line Sowing,Becard,Line sowing,141,86,93.7,1.6,12.6,24.2775,42,137,2884.3
+27,3,Becard+Broadcasting,Becard,Bradcasting,149,78.2,61.4,1,14.2,20.97,48,142,1474.7
